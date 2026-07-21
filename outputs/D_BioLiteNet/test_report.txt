@@ -1,0 +1,34 @@
+Variant: D_BioLiteNet
+Accuracy : 96.97%
+Macro-F1 : 0.9680
+SharpsF1 : 0.9864
+
+                              precision    recall  f1-score   support
+
+               ampoules_full       0.90      0.97      0.93        96
+             ampuoles_broken       0.96      0.94      0.95        96
+       blood_soaked_bandages       0.97      0.97      0.97        96
+        disinfectant_bottles       0.98      0.97      0.97        96
+         episiotomy_scissors       1.00      0.99      0.99        96
+             expired_tablets       0.90      0.92      0.91        96
+                     forceps       0.99      0.98      0.98        96
+       general_organic_waste       0.99      0.97      0.98        96
+                   hemostats       0.99      1.00      0.99        96
+                human_organs       0.89      0.92      0.90        96
+                  iv_bottles       1.00      0.99      0.99        96
+               mayo_scissors       0.99      0.98      0.98        96
+                    scalpels       0.99      1.00      0.99        96
+     stitch_removal_scissors       1.00      1.00      1.00        96
+               syrup_bottles       0.96      0.98      0.97        96
+                    tweezers       0.94      0.96      0.95        96
+uncategorized_or_overlapping       1.00      1.00      1.00       228
+                  used_masks       1.00      1.00      1.00        96
+         used_medical_gloves       1.00      0.97      0.98        96
+          used_medical_paper       0.94      0.96      0.95        96
+               used_syringes       0.98      1.00      0.99        96
+   vaccine_or_medicine_vials       0.99      0.92      0.95        96
+                waterbottles       0.93      0.90      0.91        96
+
+                    accuracy                           0.97      2340
+                   macro avg       0.97      0.97      0.97      2340
+                weighted avg       0.97      0.97      0.97      2340

@@ -1,0 +1,2 @@
+Variant,CBAM,HAFL,Accuracy,Macro-F1,Sharps-F1,Inf_ms
+D BioLiteNet,✓,✓,96.97%,0.9680,0.9864,21.07 ms
