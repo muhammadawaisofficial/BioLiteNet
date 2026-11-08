@@ -1,48 +1,8 @@
-# ── Dataset ───────────────────────────────────────────────────────────────────
-# Raw images — download from Kaggle (see README)
-data/Dataset/
-data/archive.zip
-
-# Auto-generated train/val/test splits (rebuilt from data automatically)
-outputs/splits/
-
-# ── Model checkpoints ─────────────────────────────────────────────────────────
-# Large binary files — train locally or download from the release page
-outputs/*/checkpoints/
-
-# ── Python ───────────────────────────────────────────────────────────────────
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.Python
-*.egg-info/
-dist/
-build/
-.eggs/
-
-# ── Jupyter ───────────────────────────────────────────────────────────────────
+*.pyc
 .ipynb_checkpoints/
-
-# ── Environments ─────────────────────────────────────────────────────────────
-.env
-.venv
-venv/
-env/
-
-# ── OS ───────────────────────────────────────────────────────────────────────
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# ── IDE ───────────────────────────────────────────────────────────────────────
-.vscode/
-.idea/
-*.swp
-
-# ── Keep these result files ───────────────────────────────────────────────────
-!outputs/*/test_report.txt
-!outputs/*/per_class_f1.json
-!outputs/*/training_log.csv
-!outputs/*/confusion_matrix.npy
-!outputs/split_stats.json
+*.pt
+*.pth
+experiments/*_embeddings.npz
+experiments/dedup_embeddings.npz
+experiments/paper/

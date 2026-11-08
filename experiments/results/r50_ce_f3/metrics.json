@@ -1,0 +1,15 @@
+{
+  "config": "r50_ce",
+  "fold": 3,
+  "seed": 45,
+  "best_epoch": 27,
+  "val_macro_f1": 0.9739469708920169,
+  "test_acc": 0.9780743565300286,
+  "test_macro_f1": 0.9770319045003062,
+  "test_sharps_f1": 0.9902646586349607,
+  "n_train": 10335,
+  "n_val": 2118,
+  "n_test": 3147,
+  "params": 23555159,
+  "sec_per_epoch": 96.25962212085724
+}

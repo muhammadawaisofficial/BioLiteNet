@@ -1,0 +1,11 @@
+config,rule,acc,bin_acc,errors,same_bin_%,safer_bin,less_safe_bin,crit_misses_per_1000
+mnv3_ce,argmax,98.06,99.55,187,77,26,17,5.5
+mnv3_ce,cost-rule,98.05,99.53,188,76,30,15,4.8
+mnv3_wce,argmax,98.18,99.58,175,77,28,12,3.8
+mnv3_wce,cost-rule,98.18,99.57,175,77,32,9,2.9
+mnv3_fl,argmax,97.54,99.23,237,69,45,29,9.3
+mnv3_fl,cost-rule,97.34,98.99,256,62,77,20,6.4
+mnv3_hafl,argmax,97.82,99.50,210,77,29,19,6.1
+mnv3_hafl,cost-rule,97.69,99.35,223,72,52,11,3.5
+cbam_hafl,argmax,97.88,99.43,204,73,33,22,7.1
+cbam_hafl,cost-rule,97.82,99.35,210,70,47,16,5.1

@@ -1,0 +1,46 @@
+[
+ {
+  "dom": "test",
+  "set": "fixed",
+  "file": "Soiled Dressings and Bandages (SoB)/Train Images/SoB1 (498).jpg",
+  "fold": 2,
+  "true": "SDB",
+  "argmax": "PPE",
+  "rule": "MW",
+  "p_argmax": 0.38,
+  "rule_safe": true
+ },
+ {
+  "dom": "test",
+  "set": "fixed",
+  "file": "Soiled Dressings and Bandages (SoB)/Train Images/SoB1 (476).jpg",
+  "fold": 2,
+  "true": "SDB",
+  "argmax": "PPE",
+  "rule": "SDB",
+  "p_argmax": 0.35,
+  "rule_safe": true
+ },
+ {
+  "dom": "test",
+  "set": "remaining",
+  "file": "Dental Waste (DW)/Test Images/DW2 (86).jpg",
+  "fold": 1,
+  "true": "DW",
+  "argmax": "PhW",
+  "rule": "PhW",
+  "p_argmax": 0.66,
+  "rule_safe": false
+ },
+ {
+  "dom": "test",
+  "set": "remaining",
+  "file": "Dental Waste (DW)/Test Images/DW2 (85).jpg",
+  "fold": 1,
+  "true": "DW",
+  "argmax": "PhW",
+  "rule": "PhW",
+  "p_argmax": 0.7,
+  "rule_safe": false
+ }
+]

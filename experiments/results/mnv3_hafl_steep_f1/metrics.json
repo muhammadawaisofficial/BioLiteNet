@@ -1,0 +1,16 @@
+{
+  "data": "bmw",
+  "config": "mnv3_hafl_steep",
+  "fold": 1,
+  "seed": 43,
+  "best_epoch": 29,
+  "val_macro_f1": 0.975485730043307,
+  "test_acc": 0.9748427672955975,
+  "test_macro_f1": 0.9738791900017795,
+  "test_sharps_f1": 0.9844047637475501,
+  "n_train": 10536,
+  "n_val": 2043,
+  "n_test": 3021,
+  "params": 2994055,
+  "sec_per_epoch": 90.12505100568136
+}

@@ -1,0 +1,15 @@
+{
+  "config": "mnv3_hafl",
+  "fold": 4,
+  "seed": 46,
+  "best_epoch": 25,
+  "val_macro_f1": 0.9758848841890255,
+  "test_acc": 0.9734157650695517,
+  "test_macro_f1": 0.971281997397497,
+  "test_sharps_f1": 0.985558354593552,
+  "n_train": 10257,
+  "n_val": 2108,
+  "n_test": 3235,
+  "params": 2994055,
+  "sec_per_epoch": 91.3107237815857
+}

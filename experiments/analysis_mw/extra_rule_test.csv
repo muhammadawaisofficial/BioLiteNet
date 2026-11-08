@@ -1,0 +1,6 @@
+config,n_critical_items,crit_misses_argmax,crit_misses_rule,to_general_argmax,to_general_rule,fixed,newly_missed,mcnemar_p,rel_reduction_%,95%CI_group_boot,acc_change_pp,over_seg_%_argmax,over_seg_%_rule
+mnv3_ce,3117,17,15,17,15,2,0,0.5,12,"[0, 43]",-0.01,0.27,0.31
+mnv3_wce,3117,12,9,10,7,3,0,0.25,25,"[0, 100]",+0.00,0.29,0.33
+mnv3_fl,3117,29,20,24,15,9,0,0.00391,31,"[9, 64]",-0.20,0.47,0.80
+mnv3_hafl,3117,19,11,18,10,8,0,0.00781,42,"[7, 75]",-0.13,0.30,0.54
+cbam_hafl,3117,22,16,16,10,6,0,0.0312,27,"[8, 67]",-0.06,0.34,0.49

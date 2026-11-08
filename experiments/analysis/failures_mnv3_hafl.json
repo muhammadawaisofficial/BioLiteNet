@@ -1,0 +1,90 @@
+[
+ {
+  "dom": "test",
+  "set": "fixed",
+  "file": "vial_363.png",
+  "fold": 4,
+  "true": "tweezers",
+  "argmax": "used_medical_paper",
+  "rule": "tweezers",
+  "p_argmax": 0.67,
+  "rule_safe": true
+ },
+ {
+  "dom": "test",
+  "set": "fixed",
+  "file": "1701_jpg.rf.fba666e44f2c1a6b3f2ee99540ed6f64.png",
+  "fold": 2,
+  "true": "mayo_scissors",
+  "argmax": "waterbottles",
+  "rule": "used_syringes",
+  "p_argmax": 0.38,
+  "rule_safe": true
+ },
+ {
+  "dom": "test",
+  "set": "remaining",
+  "file": "vial_288.png",
+  "fold": 1,
+  "true": "human_organs",
+  "argmax": "general_organic_waste",
+  "rule": "ampoules_full",
+  "p_argmax": 0.53,
+  "rule_safe": false
+ },
+ {
+  "dom": "test",
+  "set": "remaining",
+  "file": "5153_jpg.rf.37cd1a62c54492deb4bacaada9050426.png",
+  "fold": 4,
+  "true": "hemostats",
+  "argmax": "ampuoles_broken",
+  "rule": "ampuoles_broken",
+  "p_argmax": 0.87,
+  "rule_safe": false
+ },
+ {
+  "dom": "raw",
+  "set": "fixed",
+  "file": "2011_png.rf.abd65dd38f1500e8db6aea86d63794ec.png",
+  "fold": 0,
+  "true": "episiotomy_scissors",
+  "argmax": "uncategorized_or_overlapping",
+  "rule": "stitch_removal_scissors",
+  "p_argmax": 0.67,
+  "rule_safe": true
+ },
+ {
+  "dom": "raw",
+  "set": "fixed",
+  "file": "5294_jpg.rf.f4c3c229b9c8bd5828cb5a96214ff8ee.png",
+  "fold": 0,
+  "true": "scalpels",
+  "argmax": "waterbottles",
+  "rule": "scalpels",
+  "p_argmax": 0.45,
+  "rule_safe": true
+ },
+ {
+  "dom": "raw",
+  "set": "remaining",
+  "file": "1189_jpg.rf.94f2d91f77b1225006278ae84f2ca224.png",
+  "fold": 4,
+  "true": "scalpels",
+  "argmax": "human_organs",
+  "rule": "human_organs",
+  "p_argmax": 0.95,
+  "rule_safe": false
+ },
+ {
+  "dom": "raw",
+  "set": "remaining",
+  "file": "58_png.rf.859692b5f565b00892513dc500092474.png",
+  "fold": 3,
+  "true": "forceps",
+  "argmax": "human_organs",
+  "rule": "human_organs",
+  "p_argmax": 0.66,
+  "rule_safe": false
+ }
+]

@@ -1,0 +1,4 @@
+model,params_M,GMACs,ms_median_1t,ms_p90_1t,ms_median_4t,ms_p90_4t
+MobileNetV3-L,2.994,0.232,16.076,37.528,16.653,19.323
+MobileNetV3-L + CBAM,2.996,0.233,17.155,40.740,19.238,21.371
+ResNet-50,23.555,4.132,143.991,154.200,88.696,93.688

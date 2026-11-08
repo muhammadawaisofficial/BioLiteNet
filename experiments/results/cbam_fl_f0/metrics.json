@@ -1,0 +1,15 @@
+{
+  "config": "cbam_fl",
+  "fold": 0,
+  "seed": 42,
+  "best_epoch": 22,
+  "val_macro_f1": 0.9717532050901021,
+  "test_acc": 0.9671251257967125,
+  "test_macro_f1": 0.9660036928725461,
+  "test_sharps_f1": 0.9780673721903309,
+  "n_train": 10472,
+  "n_val": 2147,
+  "n_test": 2981,
+  "params": 2996435,
+  "sec_per_epoch": 106.18483432928721
+}

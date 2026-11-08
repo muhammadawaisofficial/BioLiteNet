@@ -1,0 +1,182 @@
+[
+ {
+  "source": "bmw",
+  "config": "mnv3_ce",
+  "fold": 0,
+  "own_fold_acc": 97.85
+ },
+ {
+  "source": "bmw",
+  "config": "mnv3_ce",
+  "fold": 1,
+  "own_fold_acc": 97.48
+ },
+ {
+  "source": "bmw",
+  "config": "mnv3_ce",
+  "fold": 2,
+  "own_fold_acc": 97.64
+ },
+ {
+  "source": "bmw",
+  "config": "mnv3_ce",
+  "fold": 3,
+  "own_fold_acc": 98.09
+ },
+ {
+  "source": "bmw",
+  "config": "mnv3_ce",
+  "fold": 4,
+  "own_fold_acc": 97.59
+ },
+ {
+  "source": "bmw",
+  "config": "mnv3_hafl",
+  "fold": 0,
+  "own_fold_acc": 97.55
+ },
+ {
+  "source": "bmw",
+  "config": "mnv3_hafl",
+  "fold": 1,
+  "own_fold_acc": 97.45
+ },
+ {
+  "source": "bmw",
+  "config": "mnv3_hafl",
+  "fold": 2,
+  "own_fold_acc": 97.33
+ },
+ {
+  "source": "bmw",
+  "config": "mnv3_hafl",
+  "fold": 3,
+  "own_fold_acc": 98.32
+ },
+ {
+  "source": "bmw",
+  "config": "mnv3_hafl",
+  "fold": 4,
+  "own_fold_acc": 97.34
+ },
+ {
+  "source": "mw",
+  "config": "mnv3_ce",
+  "fold": 0,
+  "own_fold_acc": 98.34
+ },
+ {
+  "source": "mw",
+  "config": "mnv3_ce",
+  "fold": 1,
+  "own_fold_acc": 97.42
+ },
+ {
+  "source": "mw",
+  "config": "mnv3_ce",
+  "fold": 2,
+  "own_fold_acc": 98.36
+ },
+ {
+  "source": "mw",
+  "config": "mnv3_ce",
+  "fold": 3,
+  "own_fold_acc": 98.27
+ },
+ {
+  "source": "mw",
+  "config": "mnv3_ce",
+  "fold": 4,
+  "own_fold_acc": 97.92
+ },
+ {
+  "source": "mw",
+  "config": "mnv3_hafl",
+  "fold": 0,
+  "own_fold_acc": 98.24
+ },
+ {
+  "source": "mw",
+  "config": "mnv3_hafl",
+  "fold": 1,
+  "own_fold_acc": 97.93
+ },
+ {
+  "source": "mw",
+  "config": "mnv3_hafl",
+  "fold": 2,
+  "own_fold_acc": 97.28
+ },
+ {
+  "source": "mw",
+  "config": "mnv3_hafl",
+  "fold": 3,
+  "own_fold_acc": 98.7
+ },
+ {
+  "source": "mw",
+  "config": "mnv3_hafl",
+  "fold": 4,
+  "own_fold_acc": 96.99
+ },
+ {
+  "source": "imw",
+  "config": "mnv3_ce",
+  "fold": 0,
+  "own_fold_acc": 95.35
+ },
+ {
+  "source": "imw",
+  "config": "mnv3_ce",
+  "fold": 1,
+  "own_fold_acc": 94.38
+ },
+ {
+  "source": "imw",
+  "config": "mnv3_ce",
+  "fold": 2,
+  "own_fold_acc": 92.93
+ },
+ {
+  "source": "imw",
+  "config": "mnv3_ce",
+  "fold": 3,
+  "own_fold_acc": 96.21
+ },
+ {
+  "source": "imw",
+  "config": "mnv3_ce",
+  "fold": 4,
+  "own_fold_acc": 93.61
+ },
+ {
+  "source": "imw",
+  "config": "mnv3_hafl",
+  "fold": 0,
+  "own_fold_acc": 95.35
+ },
+ {
+  "source": "imw",
+  "config": "mnv3_hafl",
+  "fold": 1,
+  "own_fold_acc": 94.63
+ },
+ {
+  "source": "imw",
+  "config": "mnv3_hafl",
+  "fold": 2,
+  "own_fold_acc": 92.23
+ },
+ {
+  "source": "imw",
+  "config": "mnv3_hafl",
+  "fold": 3,
+  "own_fold_acc": 95.62
+ },
+ {
+  "source": "imw",
+  "config": "mnv3_hafl",
+  "fold": 4,
+  "own_fold_acc": 92.8
+ }
+]

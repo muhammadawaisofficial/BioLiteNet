@@ -1,0 +1,17 @@
+config,over_cost,gap,acc,crit_misses,over_seg_%
+mnv3_ce,0.1,linear,94.22,32 (argmax 43),1.49
+mnv3_ce,0.1,squared,94.12,27 (argmax 43),1.64
+mnv3_ce,0.2,linear,94.30,32 (argmax 43),1.37
+mnv3_ce,0.2,squared,94.19,32 (argmax 43),1.55
+mnv3_ce,0.5,linear,94.32,37 (argmax 43),1.29
+mnv3_ce,0.5,squared,94.20,38 (argmax 43),1.42
+mnv3_ce,1.0,linear,94.44,43 (argmax 43),1.12
+mnv3_ce,1.0,squared,94.25,45 (argmax 43),1.27
+mnv3_hafl,0.1,linear,94.14,26 (argmax 62),1.69
+mnv3_hafl,0.1,squared,93.85,18 (argmax 62),2.10
+mnv3_hafl,0.2,linear,94.15,28 (argmax 62),1.65
+mnv3_hafl,0.2,squared,93.94,23 (argmax 62),1.94
+mnv3_hafl,0.5,linear,94.27,33 (argmax 62),1.44
+mnv3_hafl,0.5,squared,94.00,40 (argmax 62),1.62
+mnv3_hafl,1.0,linear,94.20,54 (argmax 62),1.24
+mnv3_hafl,1.0,squared,93.82,67 (argmax 62),1.49

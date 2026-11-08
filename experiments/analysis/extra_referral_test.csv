@@ -1,0 +1,17 @@
+config,rule,lowconf@95%,lowconf@90%,highrisk@95%,highrisk@90%,all@100%
+mnv3_ce,argmax,8,2,8,1,43
+mnv3_ce,cost-rule,8,2,8,1,37
+mnv3_wce,argmax,11,4,11,2,58
+mnv3_wce,cost-rule,11,4,11,2,46
+mnv3_fl,argmax,17,10,13,5,50
+mnv3_fl,cost-rule,17,10,13,5,32
+mnv3_hafl,argmax,12,4,8,3,57
+mnv3_hafl,cost-rule,12,4,8,3,39
+mnv3_hafl_steep,argmax,12,0,9,1,50
+mnv3_hafl_steep,cost-rule,12,0,9,1,33
+cbam_fl,argmax,30,9,15,8,83
+cbam_fl,cost-rule,30,9,15,8,53
+cbam_hafl,argmax,23,11,16,8,84
+cbam_hafl,cost-rule,23,11,16,8,46
+r50_ce,argmax,13,3,13,1,61
+r50_ce,cost-rule,13,3,13,1,41

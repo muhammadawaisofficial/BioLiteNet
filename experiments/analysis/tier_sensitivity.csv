@@ -1,0 +1,13 @@
+tiers,config,n_critical_items,crit_misses_argmax,crit_misses_rule,newly_missed,mcnemar_p
+paper,mnv3_ce,6400,43,37,0,0.0312
+paper,mnv3_wce,6400,58,46,0,0.000488
+paper,mnv3_fl,6400,50,32,0,7.63e-06
+paper,mnv3_hafl,6400,57,39,0,7.63e-06
+paper,mnv3_hafl_steep,6400,50,33,0,1.53e-05
+paper,cbam_hafl,6400,84,46,0,7.28e-12
+ampuoles_broken=5,mnv3_ce,7040,71,58,0,0.000244
+ampuoles_broken=5,mnv3_wce,7040,84,66,0,7.63e-06
+ampuoles_broken=5,mnv3_fl,7040,78,42,0,2.91e-11
+ampuoles_broken=5,mnv3_hafl,7040,84,51,0,2.33e-10
+ampuoles_broken=5,mnv3_hafl_steep,7040,79,48,0,9.31e-10
+ampuoles_broken=5,cbam_hafl,7040,119,66,0,2.22e-16

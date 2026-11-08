@@ -1,0 +1,16 @@
+{
+  "data": "imw",
+  "config": "mnv3_hafl_steep",
+  "fold": 1,
+  "seed": 43,
+  "best_epoch": 25,
+  "val_macro_f1": 0.9524891286630556,
+  "test_acc": 0.9446308724832215,
+  "test_macro_f1": 0.9400498160041736,
+  "test_sharps_f1": 0.978494623655914,
+  "n_train": 4004,
+  "n_val": 791,
+  "n_test": 1192,
+  "params": 2982523,
+  "sec_per_epoch": 35.34102847576141
+}

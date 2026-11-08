@@ -1,0 +1,16 @@
+{
+  "data": "mw",
+  "config": "cbam_hafl",
+  "fold": 0,
+  "seed": 42,
+  "best_epoch": 17,
+  "val_macro_f1": 0.9748792612485611,
+  "test_acc": 0.9860103626943005,
+  "test_macro_f1": 0.9848767371151597,
+  "test_sharps_f1": 1.0,
+  "n_train": 6364,
+  "n_val": 1340,
+  "n_test": 1930,
+  "params": 2996435,
+  "sec_per_epoch": 62.09709622065226
+}

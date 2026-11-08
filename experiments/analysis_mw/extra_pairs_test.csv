@@ -1,0 +1,13 @@
+A,B,rule,A_misses,B_misses,only_A_missed,only_B_missed,mcnemar_p,A_acc,B_acc,acc_mcnemar_p
+mnv3_hafl,mnv3_ce,argmax,19,17,7,5,0.774,97.82,98.06,0.119
+mnv3_hafl,mnv3_ce,cost-rule,11,15,2,6,0.289,97.69,98.05,0.0168
+mnv3_hafl,mnv3_wce,argmax,19,12,10,3,0.0923,97.82,98.18,0.0137
+mnv3_hafl,mnv3_wce,cost-rule,11,9,4,2,0.688,97.69,98.18,0.000953
+mnv3_hafl,mnv3_fl,argmax,19,29,5,15,0.0414,97.82,97.54,0.0814
+mnv3_hafl,mnv3_fl,cost-rule,11,20,2,11,0.0225,97.69,97.34,0.0366
+mnv3_wce,mnv3_ce,argmax,12,17,4,9,0.267,98.18,98.06,0.415
+mnv3_wce,mnv3_ce,cost-rule,9,15,2,8,0.109,98.18,98.05,0.375
+mnv3_fl,mnv3_ce,argmax,29,17,17,5,0.0169,97.54,98.06,0.00113
+mnv3_fl,mnv3_ce,cost-rule,20,15,9,4,0.267,97.34,98.05,1.04e-05
+mnv3_wce,mnv3_fl,argmax,12,29,1,18,7.63e-05,98.18,97.54,2.95e-05
+mnv3_wce,mnv3_fl,cost-rule,9,20,0,11,0.000977,98.18,97.34,1.2e-07

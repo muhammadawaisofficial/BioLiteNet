@@ -8,7 +8,7 @@ class ChannelGate(nn.Module):
     def __init__(self, in_channels, reduction=16):
         super().__init__()
         mid = max(in_channels // reduction, 4)
-        self.mlp = nn.Sequential(
+        self.shared_mlp = nn.Sequential(
             nn.Linear(in_channels, mid, bias=False),
             nn.ReLU(inplace=True),
             nn.Linear(mid, in_channels, bias=False),
@@ -16,8 +16,8 @@ class ChannelGate(nn.Module):
 
     def forward(self, x):
         B, C, H, W = x.shape
-        avg_out = self.mlp(x.mean(dim=[2, 3]))
-        max_out = self.mlp(x.amax(dim=[2, 3]))
+        avg_out = self.shared_mlp(x.mean(dim=[2, 3]))
+        max_out = self.shared_mlp(x.amax(dim=[2, 3]))
         scale = torch.sigmoid(avg_out + max_out).view(B, C, 1, 1)
         return x * scale
 

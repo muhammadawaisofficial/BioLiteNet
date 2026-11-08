@@ -1,0 +1,3 @@
+A,B,A_misses,B_misses,only_A_missed,only_B_missed,mcnemar_p
+mnv3_ce+T+rule,mnv3_hafl+rule,29,39,10,20,0.0987
+mnv3_ce+T+rule,mnv3_hafl+T+rule,29,37,10,18,0.185

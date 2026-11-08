@@ -1,0 +1,16 @@
+{
+  "data": "mw",
+  "config": "mnv3_wce",
+  "fold": 1,
+  "seed": 43,
+  "best_epoch": 25,
+  "val_macro_f1": 0.9746000256686587,
+  "test_acc": 0.9858442871587462,
+  "test_macro_f1": 0.9842340480107256,
+  "test_sharps_f1": 0.9977777777777778,
+  "n_train": 6341,
+  "n_val": 1315,
+  "n_test": 1978,
+  "params": 2994055,
+  "sec_per_epoch": 61.43570172786713
+}

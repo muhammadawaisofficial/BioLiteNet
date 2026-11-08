@@ -1,0 +1,13 @@
+config,rule,acc,macro_f1,sharps_f1,hazard_cost,critical_miss_rate,under_seg_rate
+mnv3_ce,argmax,94.50,94.40,98.10,0.0221,0.99,0.72
+mnv3_ce,min-expected-cost,94.30,94.20,97.89,0.0190,0.74,0.53
+mnv3_wce,argmax,94.54,94.62,98.23,0.0321,1.39,1.02
+mnv3_wce,min-expected-cost,94.35,94.44,98.01,0.0266,1.02,0.73
+mnv3_fl,argmax,93.97,93.89,95.13,0.0400,2.08,1.59
+mnv3_fl,min-expected-cost,93.79,93.71,95.32,0.0290,1.20,0.90
+mnv3_hafl,argmax,94.17,94.13,98.22,0.0335,1.43,1.09
+mnv3_hafl,min-expected-cost,94.15,94.04,98.12,0.0199,0.65,0.48
+cbam_hafl,argmax,92.37,92.36,95.59,0.0468,2.31,1.72
+cbam_hafl,min-expected-cost,92.28,92.30,94.79,0.0325,1.30,0.95
+mnv3_hafl_steep,argmax,93.77,93.72,97.54,0.0356,1.62,1.17
+mnv3_hafl_steep,min-expected-cost,93.62,93.54,96.57,0.0229,0.79,0.57
